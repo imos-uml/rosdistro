@@ -10102,6 +10102,13 @@ roslibpy-pip:
   ubuntu:
     pip:
       packages: [roslibpy]
+rpi-lgpio:
+  debian:
+    pip:
+      packages: [rpi-lgpio]
+  ubuntu:
+    pip:
+      packages: [rpi-lgpio]
 rpy2:
   arch: [python-rpy2]
   debian: [python-rpy2]
