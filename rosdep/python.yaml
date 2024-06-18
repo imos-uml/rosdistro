@@ -4768,6 +4768,13 @@ python3-adafruit-circuitpython-bno08x-pip:
   ubuntu:
     pip:
       packages: [adafruit-circuitpython-bno08x]
+python3-adafruit-circuitpython-lsm6ds-pip:
+  debian:
+    pip:
+      packages: [adafruit-circuitpython-lsm6ds]
+  ubuntu:
+    pip:
+      packages: [adafruit-circuitpython-lsm6ds]
 python3-adafruit-circuitpython-lsm9ds0-pip:
   debian:
     pip:
